@@ -79,5 +79,5 @@ This project is licensed under the **MIT License**.
 👤 **Rohit Kumar**  
 📧 [Email](mailto:kumarrohit2551997@gmail.com)  
 🔗 [GitHub](https://github.com/krohit2552)  
-live link taskmanagementapprohit.netlify.app
+[live link](taskmanagementapprohit.netlify.app)
 
