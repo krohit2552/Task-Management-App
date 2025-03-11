@@ -1,7 +1,9 @@
 # Task Management App
 
 ## Overview
-The **Task Management App** is a web-based application designed to help users efficiently manage their tasks and projects. It provides an intuitive interface to create, update, and track tasks, ensuring better productivity and organization.![image](https://github.com/user-attachments/assets/a7f58fd3-2b5b-46f2-9d1d-f32ac4b8bb7d)
+The **Task Management App** is a web-based application designed to help users efficiently manage their tasks and projects. It provides an intuitive interface to create, update, and track tasks, ensuring better productivity and organization.![image](https://github.com/user-attachments/assets/f7df100a-f40f-4f68-b888-2bcb88ebddf6)
+
+![image](https://github.com/user-attachments/assets/a7f58fd3-2b5b-46f2-9d1d-f32ac4b8bb7d)
 
 
 ## Features
