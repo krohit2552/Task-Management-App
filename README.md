@@ -1,7 +1,8 @@
 # Task Management App
 
 ## Overview
-The **Task Management App** is a web-based application designed to help users efficiently manage their tasks and projects. It provides an intuitive interface to create, update, and track tasks, ensuring better productivity and organization.
+The **Task Management App** is a web-based application designed to help users efficiently manage their tasks and projects. It provides an intuitive interface to create, update, and track tasks, ensuring better productivity and organization.![image](https://github.com/user-attachments/assets/a7f58fd3-2b5b-46f2-9d1d-f32ac4b8bb7d)
+
 
 ## Features
 - ✅ User authentication (Login/Signup)
@@ -29,20 +30,16 @@ To run the project locally, follow these steps:
 
 ### Steps
 ```sh
+Steps
 # Clone the repository
 git clone https://github.com/krohit2552/Task-Management-App.git
 cd Task-Management-App
 
 # Install dependencies
-npm install
+>>npm install
 
-# Start the backend server
-npm run server
-
-# Start the frontend
-dcd client
-npm install
-npm start
+#running script
+>>npm run dev
 ```
 
 ## Usage
